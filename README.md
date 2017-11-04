@@ -1,8 +1,9 @@
-# OpenFace
-Decentralized Social Networking written in PHP
+# About
+
+This is the code of Trusted Shops' internal social network. It is a fork of OpenFace:  http://demo.openface.org
 
 # License 
 GNU Affero General Public License v3
 
-# Demo
-http://demo.openface.org
+# Site
+http://work.tslabs.de
