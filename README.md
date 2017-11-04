@@ -6,5 +6,5 @@ It is a fork of OpenFace:  http://demo.openface.org
 # License 
 GNU Affero General Public License v3
 
-# Live
+# Live Site
 http://work.tslabs.de
